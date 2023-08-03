@@ -6,7 +6,7 @@
 3. 处理后的数据名与原始数据相同
 4. 将csv文件放在同一文件夹下，保证该文件夹只有csv文件。更改原始数据地址与新数据存放地址后，点击运行即可
 5. 推荐使用pycharm或vscode(需要插件)
-6. 如有
+6. 如有问题或bug，可以直接在仓库https://github.com/cmwillG/data-processing中提交issue
 '''
 
 import csv
